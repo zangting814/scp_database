@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "username": "O5-1",
+            "password": "000000",
+            "access_level": "user"
+        }
+    ]
+}
